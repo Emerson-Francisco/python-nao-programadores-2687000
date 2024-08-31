@@ -23,5 +23,5 @@ complexo = 2+1j
 
 # Declare uma variável do tipo booleano
 verdadeiro = True
-
+falso = False
 falso = False
